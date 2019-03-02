@@ -1,0 +1,17 @@
+{
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
+  "extends": "eslint:recommended",
+  "globals": {
+  },
+  "rules": {
+    "no-console": 0,
+    "prefer-arrow-callback": 2
+  },
+  "plugins": [
+  ]
+}

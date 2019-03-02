@@ -1,0 +1,24 @@
+{
+  "name": "xq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyngk/xq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickyngk/xq/issues"
+  },
+  "homepage": "https://github.com/rickyngk/xq#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "bluebird": "^3.5.3",
+    "chalk": "^2.4.2"
+  }
+}
